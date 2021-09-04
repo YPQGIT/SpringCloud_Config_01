@@ -2,6 +2,6 @@
 # 微服务，应该使用相同的名称
 spring:
   application:
-    name: SpringCloud-Config-prod
+    name: SpringCloud-Config-prod-local
   
 
